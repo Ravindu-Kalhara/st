@@ -1,4 +1,4 @@
 build/*
 *.o
+*.orig
 st
-config.h
